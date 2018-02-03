@@ -1,2 +1,2 @@
-# Makeroid TinyWebDB Server
-The official Makeroid TinyWebDB Server.
+# Makeroid TinyWebDB
+TinyWebDB service for Makeroid
