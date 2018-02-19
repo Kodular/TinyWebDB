@@ -4,6 +4,9 @@
   "website": "https://makeroid.io",
   "repository": "https://github.com/pavi2410/TinyWebDB",
   "logo": "https://www.makeroid.io/assets/images/logo-70x70.png",
+  "addons": [
+    "heroku-postgresql:hobby-dev"
+  ],
   "keywords": [
     "tinywebdb",
     "makeroid",
