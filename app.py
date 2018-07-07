@@ -37,6 +37,7 @@ def store_a_value():
         existing_tag = TinyWebDB.query.filter_by(tag=tag).first()
         if existing_tag:
             existing_tag.value = value
+            db.session.commit()
         else:
             data = TinyWebDB(tag=tag, value=value)
             db.session.add(data)
