@@ -1,4 +1,4 @@
-# Makeroid TinyWebDB Service
+# Kodular TinyWebDB Service
 
 A web DB service that stores and retrieves values for a Makeroid app.
 
