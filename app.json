@@ -1,15 +1,16 @@
 {
-  "name": "Makeroid TinyWebDB",
-  "description": "A web DB service that stores and retrieves values for a Makeroid app.",
-  "website": "https://makeroid.io",
+  "name": "Kodular TinyWebDB",
+  "description": "A web DB service that stores and retrieves values for a Kodular app.",
+  "website": "https://kodular.io",
   "repository": "https://github.com/pavi2410/TinyWebDB",
-  "logo": "https://www.makeroid.io/assets/images/logo-70x70.png",
+  "logo": "https://www.kodular.io/assets/images/logo-70x70.png",
   "addons": [
     "heroku-postgresql:hobby-dev"
   ],
   "keywords": [
     "tinywebdb",
     "makeroid",
+    "kodular",
     "android",
     "python",
     "flask",
