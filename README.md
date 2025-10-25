@@ -1,5 +1,11 @@
 # Kodular TinyWebDB Service
 
+**⚠️ DEPRECATED ⚠️**
+
+> For an updated repository, please refer to [TinyWebDB-OneClick](https://github.com/Kodular/TinyWebDB-OneClick).
+
+---
+
 A web DB service that stores and retrieves values for a Kodular app.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/qXPej_?referralCode=N1BVB_) [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/pavi2410/TinyWebDB)
